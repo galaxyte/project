@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Before Run
+
+Run the command -> npm install redux-devtools-extension   in the main file
+This command will install  redux devtools required in the project
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -29,7 +35,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+### `npm run eject`  
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
